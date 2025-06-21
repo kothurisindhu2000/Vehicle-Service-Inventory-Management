@@ -8,6 +8,7 @@
  - Run the /dist/Login.exe to start the project.
 /
  - Run the Login.py to start the project.
-**Admin Credentials:**
-  Username: admin
-  Password: admin123
+
+#### Admin Credentials:
+ - Username: admin
+ - Password: admin123
