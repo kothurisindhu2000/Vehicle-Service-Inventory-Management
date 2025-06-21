@@ -1,8 +1,8 @@
 # Vehicle-Service-Inventory-Management
 
 ## Installation requirements
- --pip install MySQL-connector-python
- --pip install tkcalendar
+ - pip install MySQL-connector-python
+ - pip install tkcalendar
 
 ### To start:
   Run the /dist/Login.exe to start the project.
