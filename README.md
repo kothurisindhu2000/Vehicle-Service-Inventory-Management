@@ -6,7 +6,6 @@
 
 ### To start:
  - Run the /dist/Login.exe to start the project.
-   OR
  - Run the Login.py to start the project.
 
 #### Admin Credentials:
